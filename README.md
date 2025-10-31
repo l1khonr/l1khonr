@@ -2,7 +2,7 @@
 
 <img src="https://media.tenor.com/TyhWL7gJwPgAAAAi/peppo-dance.gif" width="150" align="right">
 
-Welcome to my GitHub! I'm a full-stack developer, ethical hacker, and automation enthusiast based in Bangladesh 🇧🇩. I specialize in building scalable web apps, streaming APIs, and developer tools that make life easier.
+I'm a full-stack developer, ethical hacker, and automation enthusiast based in Bangladesh 🇧🇩. I specialize in building scalable web apps, streaming APIs, and developer tools that make life easier.
 <br>
 - 🧠 **AI & Automation:** Building agentic workflows with Gemini CLI, Next.js AI SDK, and custom APIs.
 
