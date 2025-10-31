@@ -8,8 +8,6 @@ Welcome to my GitHub! I'm a full-stack developer, ethical hacker, and automation
 
 ## 🚀 What I Do
 
-<img src="https://media.tenor.com/D609Ay5PK5QAAAAj/skill-issue-coding.gif" width="200" align="right">
-
 - 🧠 **AI & Automation:** Building agentic workflows with Gemini CLI, Next.js AI SDK, and custom APIs.
 - 🕸️ **Web Dev:** Crafting full-stack applications with Node.js, TypeScript, React, and Next.js.
 - 📦 **Microservices:** Developing production-ready services using Docker, Playwright for browser automation, Server-Sent Events (SSE), and robust job queues.
@@ -36,5 +34,7 @@ Welcome to my GitHub! I'm a full-stack developer, ethical hacker, and automation
 ---
 
 > “Have AI handle all the mundane parts of programming.” – [Read more on my blog](https://likhon.org)
+
+<img src="https://media.tenor.com/D609Ay5PK5QAAAAj/skill-issue-coding.gif" width="200" align="center">
 
 Thanks for stopping by! Feel free to explore my repositories, fork projects, or reach out for collaboration.
