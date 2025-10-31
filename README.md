@@ -1,12 +1,18 @@
 # 👋 Hi, I'm Likhon Sheikh
 
+<img src="https://media.tenor.com/TyhWL7gJwPgAAAAi/peppo-dance.gif" width="150" align="right">
+
 Welcome to my GitHub! I'm a full-stack developer, ethical hacker, and automation enthusiast based in Bangladesh 🇧🇩. I specialize in building scalable web apps, streaming APIs, and developer tools that make life easier.
+
+<br>
 
 ## 🚀 What I Do
 
+<img src="https://media.tenor.com/D609Ay5PK5QAAAAj/skill-issue-coding.gif" width="200" align="right">
+
 - 🧠 **AI & Automation:** Building agentic workflows with Gemini CLI, Next.js AI SDK, and custom APIs.
 - 🕸️ **Web Dev:** Crafting full-stack applications with Node.js, TypeScript, React, and Next.js.
-- 📦 **Microservices:** Developing production-ready services using Docker, Playwright for browser automation, Server-Sent Events (SSE) for real-time updates, and robust job queues.
+- 📦 **Microservices:** Developing production-ready services using Docker, Playwright for browser automation, Server-Sent Events (SSE), and robust job queues.
 - 🎬 **Streaming APIs:** Creator of the [LikhonFlix API](https://api.likhonsheikh.xyz), a service to stream movies and series.
 - 🔐 **Ethical Hacking:** Passionate about security, reproducibility, and contributing to open-source tooling.
 
