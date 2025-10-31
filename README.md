@@ -15,8 +15,6 @@ Welcome to my GitHub! I'm a full-stack developer, ethical hacker, and automation
 ## 📫 Connect With Me
 - 🌐 **Website:** [likhon.dev](https://likhon.dev)
 - 📝 **Blog:** [likhon.org](https://likhon.org)
-- 🧪 **API Playground:** [api.likhonsheikh.xyz](https://api.likhonsheikh.xyz)
-- 📮 **Email:** sheikh.likhon@gmail.com
 
 ---
 
