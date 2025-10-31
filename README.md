@@ -9,12 +9,7 @@ Welcome to my GitHub! I'm a full-stack developer, ethical hacker, and automation
 ## 🚀 What I Do
 
 - 🧠 **AI & Automation:** Building agentic workflows with Gemini CLI, Next.js AI SDK, and custom APIs.
-- 🕸️ **Web Dev:** Crafting full-stack applications with Node.js, TypeScript, React, and Next.js.
-- 📦 **Microservices:** Developing production-ready services using Docker, Playwright for browser automation, Server-Sent Events (SSE), and robust job queues.
-- 🎬 **Streaming APIs:** Creator of the [LikhonFlix API](https://api.likhonsheikh.xyz), a service to stream movies and series.
-- 🔐 **Ethical Hacking:** Passionate about security, reproducibility, and contributing to open-source tooling.
 
-## 🧰 Featured Projects
 
 | Project | Description |
 |---|---|
